@@ -1,0 +1,12 @@
+[package]
+name = "mheap"
+version = "0.1.0"
+edition = "2024"
+authors = ["Vladyslav Katasonov <cpud47@gmail.com>"]
+repository = "https://github.com/cpud36/mheap"
+description = "Flexible binary heaps"
+license = "MIT"
+keywords = ["heap", "priority", "queue"]
+categories = ["algorithms", "data-structures"]
+
+[dependencies]
